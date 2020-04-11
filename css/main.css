@@ -38,13 +38,6 @@ body {
   flex: 0 0 100%;
 }
 
-@media screen and (max-width: 767px) {
- body #logo {
-   max-width: 90%;
-   display: block;
- }
-}
-
 .col {
   flex: 0 0 100%;
   padding: 0 0.75em;
@@ -82,6 +75,7 @@ body {
 body {
   color: #048ca8;
   text-align: center;
+  padding-top: 6em
 }
 
 img {
