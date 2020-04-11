@@ -75,7 +75,6 @@ body {
 body {
   color: #048ca8;
   text-align: center;
-  padding-top: 6em
 }
 
 img {
@@ -94,7 +93,6 @@ img {
   padding: 0;
   list-style: none;
 }
-
 
 @media (min-width: 725px) {
   .lg-screen {
